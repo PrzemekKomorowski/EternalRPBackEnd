@@ -1,5 +1,4 @@
-package com.example.eternalrp_back.user.model;
-
+package com.example.eternalrpbackend.user.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

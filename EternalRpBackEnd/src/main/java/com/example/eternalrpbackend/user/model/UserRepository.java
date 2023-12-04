@@ -1,4 +1,4 @@
-package com.example.eternalrp_back.user.model;
+package com.example.eternalrpbackend.user.model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

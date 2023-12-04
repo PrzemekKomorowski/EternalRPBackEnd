@@ -1,4 +1,4 @@
-package com.example.eternalrp_back.user.model;
+package com.example.eternalrpbackend.user.model;
 
 public enum Role {
 
