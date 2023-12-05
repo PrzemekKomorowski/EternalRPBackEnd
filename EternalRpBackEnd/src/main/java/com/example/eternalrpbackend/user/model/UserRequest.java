@@ -16,7 +16,7 @@ public class UserRequest {
          return User.builder()
                  .username(request.getUsername())
                  .password(request.getPassword())
-                 .email(request.getEmail())
+//                 .email(request.getEmail())
                  .build();
      }
 }
